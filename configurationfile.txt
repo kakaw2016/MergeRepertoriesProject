@@ -1,0 +1,3 @@
+repertoryA=/home/youthbrigthfuture/go/src/github.com/kakaw2016/MergeRepertoriesProject/RepertoryA
+repertoryB=/home/youthbrigthfuture/go/src/github.com/kakaw2016/MergeRepertoriesProject/RepertoryB
+MergedRepertory=/home/youthbrigthfuture/go/src/github.com/kakaw2016/MergeRepertoriesProject/DestinationRepertory
